@@ -1,0 +1,23 @@
+const thinkingFastSlowQuestions = [
+  // === THINKING, FAST AND SLOW QUESTIONS ===
+  {q:"Who is the author of 'Thinking, Fast and Slow'?",a:["Daniel Kahneman","Amos Tversky","Richard Thaler","Nassim Taleb"],c:"Daniel Kahneman"},
+  {q:"What are the two systems of thinking described in the book?",a:["System 1 and System 2","Logic and Emotion","Fast Brain and Slow Brain","Right Brain and Left Brain"],c:"System 1 and System 2"},
+  {q:"What characterizes System 1 thinking?",a:["Fast, automatic, and intuitive","Slow, deliberate, and logical","Analytical and mathematical","Based on formal reasoning"],c:"Fast, automatic, and intuitive"},
+  {q:"What characterizes System 2 thinking?",a:["Slow, deliberate, and effortful","Emotional and instinctive","Unconscious and automatic","Random and unstructured"],c:"Slow, deliberate, and effortful"},
+  {q:"Which of the following is an example of System 1 thinking?",a:["Dodging a ball thrown at you","Solving a math problem","Planning a project","Writing an essay"],c:"Dodging a ball thrown at you"},
+  {q:"Which of the following is an example of System 2 thinking?",a:["Solving a complex equation","Recognizing a friend's face","Reacting to danger","Driving on an empty road"],c:"Solving a complex equation"},
+  {q:"What is the 'availability heuristic'?",a:["Judging probability based on how easily examples come to mind","Using logic to estimate outcomes","Overthinking a simple task","Basing judgment on statistics"],c:"Judging probability based on how easily examples come to mind"},
+  {q:"What does the 'anchoring effect' refer to?",a:["Being influenced by the first piece of information given","Remembering the last thing you heard","Ignoring context in decisions","Relying on past experiences"],c:"Being influenced by the first piece of information given"},
+  {q:"What is 'loss aversion'?",a:["People dislike losses more than they enjoy equivalent gains","People prefer risk over safety","People enjoy winning more than losing","People ignore potential losses"],c:"People dislike losses more than they enjoy equivalent gains"},
+  {q:"What is the main theme of 'Thinking, Fast and Slow'?",a:["How humans think and make decisions","How to start a business","How to improve memory","How to increase creativity"],c:"How humans think and make decisions"},
+  {q:"What does Kahneman mean by 'cognitive bias'?",a:["Systematic error in thinking","An emotional decision","A logical mistake","A random choice"],c:"Systematic error in thinking"},
+  {q:"Who was Daniel Kahneman’s main research partner?",a:["Amos Tversky","Richard Thaler","Steven Pinker","Malcolm Gladwell"],c:"Amos Tversky"},
+  {q:"What is the 'halo effect'?",a:["Judging someone’s overall character based on one good trait","Ignoring positive traits of others","Overestimating our own skills","Trusting intuition blindly"],c:"Judging someone’s overall character based on one good trait"},
+  {q:"What is 'overconfidence bias'?",a:["Believing we know more than we actually do","Doubting our own decisions","Being too cautious","Trusting others too easily"],c:"Believing we know more than we actually do"},
+  {q:"What does 'framing effect' describe?",a:["How choices are influenced by the way they are presented","Ignoring how questions are worded","Using frames for memory recall","Perceiving visual illusions"],c:"How choices are influenced by the way they are presented"},
+  {q:"Which of these best describes 'prospect theory'?",a:["People evaluate gains and losses differently","People always act rationally","Decisions are made purely by logic","Emotions have no role in decisions"],c:"People evaluate gains and losses differently"},
+  {q:"What prize did Daniel Kahneman win for his work?",a:["The Nobel Prize in Economic Sciences","Pulitzer Prize","Peace Prize","National Science Medal"],c:"The Nobel Prize in Economic Sciences"},
+  {q:"What is 'substitution' in decision-making?",a:["Replacing a hard question with an easier one","Avoiding a decision altogether","Using logic instead of emotion","Consulting experts before deciding"],c:"Replacing a hard question with an easier one"},
+  {q:"What does Kahneman suggest to reduce cognitive bias?",a:["Engaging System 2 more often","Trusting intuition always","Ignoring emotions","Making faster decisions"],c:"Engaging System 2 more often"},
+  {q:"What is one key lesson from 'Thinking, Fast and Slow'?",a:["Awareness of biases can improve decision-making","Fast thinking is always wrong","Slow thinking is unnecessary","Emotion should be removed from all decisions"],c:"Awareness of biases can improve decision-making"}
+];
